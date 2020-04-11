@@ -1,0 +1,17 @@
+{
+  "name": "tobiasthaden/tap",
+  "description": "Tap, Tap Tap",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tobias Thaden",
+      "email": "hello@tobiasthaden.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "tap.php"
+    ]
+  }
+}

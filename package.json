@@ -1,0 +1,22 @@
+{
+  "name": "@tobiasthaden/tap",
+  "version": "1.0.0",
+  "description": "Tap, Tap, Tap",
+  "main": "tap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasthaden/tap.git"
+  },
+  "keywords": [
+    "tap"
+  ],
+  "author": {
+    "name": "Tobias Thaden",
+    "email": "hello@tobiasthaden.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiasthaden/tap/issues"
+  },
+  "homepage": "https://github.com/tobiasthaden/tap#readme"
+}
