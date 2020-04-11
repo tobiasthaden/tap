@@ -7,3 +7,17 @@ Example: 🚰
 ```js
 return tap(product, (item) => item.buy(10));
 ```
+
+### Installation
+
+JavaScript / Node
+
+```sh
+npm install @tobiasthaden/tap
+```
+
+PHP
+
+```sh
+composer require tobiasthaden/tap
+```
