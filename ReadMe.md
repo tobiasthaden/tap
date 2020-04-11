@@ -16,7 +16,7 @@ JavaScript / Node
 npm install @tobiasthaden/tap
 ```
 
-PHP
+PHP / Composer
 
 ```sh
 composer require tobiasthaden/tap
